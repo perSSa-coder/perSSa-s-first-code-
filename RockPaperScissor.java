@@ -1,3 +1,5 @@
+// https://www.youtube.com/watch?v=asuU_zHF5Po
+// https://favtutor.com/blogs/rock-paper-scissors-java
 import java.util.*;
 
 public class RockPaperScissor {
